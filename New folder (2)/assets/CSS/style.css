@@ -1,0 +1,26 @@
+.top-image{
+    text-align: center
+}
+
+.top-image img{
+    width: 1145px;
+    height: 720px;
+}
+
+.mid-image{
+    text-align: center;
+}
+
+.mid-image img{
+    width: 570px;
+    height: 416px;
+}
+
+.bottom-image{
+    text-align: center;
+}
+
+.bottom-image img{
+    width: 570px;
+    height: 416px;
+}
